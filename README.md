@@ -26,7 +26,7 @@ I'm passionate about debugging and follow hard problems wherever they lead. I ai
 - [kordamp/json-lib](https://github.com/kordamp/json-lib/commits?author=basil)
 - [wrandelshofer/MonteMedia](https://github.com/wrandelshofer/MonteMedia/commits?author=basil)
 
-### AI, Big Data, and Full Stack
+### AI, Big Data, Full Stack, and Systems
 
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace/commits?author=basil)
 - [prestodb/presto](https://github.com/prestodb/presto/commits?author=basil)
