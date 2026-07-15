@@ -40,7 +40,6 @@ I'm passionate about debugging and follow hard problems wherever they lead. I ai
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty/commits?author=basil)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps/commits?author=basil)
-- [musescore/MuseScore](https://github.com/musescore/MuseScore/commits?author=basil)
 - [IJHack/QtPass](https://github.com/IJHack/QtPass/commits?author=basil)
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm/commits?author=basil)
 - [wayle-rs/wayle](https://github.com/wayle-rs/wayle/commits?author=basil)
@@ -52,6 +51,7 @@ I'm passionate about debugging and follow hard problems wherever they lead. I ai
 
 ### Typography
 
+- [musescore/MuseScore](https://github.com/musescore/MuseScore/commits?author=basil)
 - [fontforge/fontforge](https://github.com/fontforge/fontforge/commits?author=basil)
 - [robertknight/tex-linebreak](https://github.com/robertknight/tex-linebreak/commits?author=basil)
 - [neanes/neanes](https://github.com/neanes/neanes/commits?author=basil)
