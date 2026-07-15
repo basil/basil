@@ -16,8 +16,8 @@ I have a proven track record of delivering high-risk migrations on time, within 
 
 I am passionate about debugging and follow hard problems wherever they lead me. I learn whatever languages or tools the job demands, and I do so with both breadth and depth. I leave every subsystem better than I found it, typically with a cleaner build system, stronger debugging support, and clearer documentation.
 
-- [Manual of Me](./manual.md): how I like to collaborate
-- [Pull request template](./pull_request_template.md): the review structure I prefer
+- [Manual of Me](./manual.md)
+- [Pull request template](./pull_request_template.md)
 
 ## Open Source Leadership
 
