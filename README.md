@@ -1,58 +1,38 @@
 # Basil Crow
 
-- [Manual of Me](./manual.md)
-- [Pull request template](./pull_request_template.md)
+I am a software engineer interested in systems programming, debugging, migrations, builds, and documentation.
 
-## About
+Previously, I was a Principal Engineer at [CloudBees](https://www.cloudbees.com/), where I contributed to the [Jenkins](https://www.jenkins.io/) project as a core maintainer and governance board member. Before that, I worked at [Delphix](https://www.perforce.com/products/delphix), embedding filesystems in database storage appliances.
 
-I'm a longtime open source contributor and systems generalist with commits across 30+ projects, from foundational Java infrastructure to AI, big data, the Linux desktop, and typography. I move fluidly across unfamiliar codebases and pick up whatever languages and tools the job demands with both breadth and depth.
+I received my Sc.B. and Sc.M. in [Computer Science](https://cs.brown.edu/) from [Brown University](https://www.brown.edu/).
 
-I'm passionate about debugging and follow hard problems wherever they lead. I aim to leave every subsystem better than I found it, typically with a cleaner build system, stronger debugging support, and clearer documentation.
+## About Me
 
-### Java Ecosystem
+As a Principal Software Engineer and systems generalist with 15 years of experience, I have roots in operating systems, networking, and storage (ZFS), along with deep Java/JVM expertise in concurrency, class loading, garbage collection, and performance tuning.
 
-- [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/commits?author=basil)
-- [apache/groovy](https://github.com/apache/groovy/commits?author=basil)
-- [jetty/jetty.project](https://github.com/jetty/jetty.project/commits?author=basil)
-- [jbangdev/jbang](https://github.com/jbangdev/jbang/commits?author=basil)
-- [jnr/jnr-ffi](https://github.com/jnr/jnr-ffi/commits?author=basil)
-- [apache/ant](https://github.com/apache/ant/commits?author=basil)
-- [apache/commons-beanutils](https://github.com/apache/commons-beanutils/commits?author=basil)
-- [apache/commons-fileupload](https://github.com/apache/commons-fileupload/commits?author=basil)
-- [apache/commons-net](https://github.com/apache/commons-net/commits?author=basil)
-- [apache/maven-site](https://github.com/apache/maven-site/commits?author=basil)
-- [apereo/java-cas-client](https://github.com/apereo/java-cas-client/commits?author=basil)
-- [kordamp/ezmorph](https://github.com/kordamp/ezmorph/commits?author=basil)
-- [kordamp/json-lib](https://github.com/kordamp/json-lib/commits?author=basil)
-- [wrandelshofer/MonteMedia](https://github.com/wrandelshofer/MonteMedia/commits?author=basil)
+I work across the full software development lifecycle (SDLC): architecture, rapid prototyping, project management, development, testing, debugging, documentation, deployment, and operations. My focus is on building teams, mentoring contributors, defining problems, and end-to-end ownership of solutions.
 
-### AI, Big Data, Full Stack, and Systems
+I have a proven track record of delivering high-risk migrations on time, within budget, and to a high standard of quality. I proactively keep third-party dependencies current and secure.
 
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace/commits?author=basil)
-- [prestodb/presto](https://github.com/prestodb/presto/commits?author=basil)
-- [oshi/oshi](https://github.com/oshi/oshi/pulls?q=is%3Apr+author%3Abasil)
-- [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron/commits?author=basil)
-- [ManukMinasyan/vue3-observe-visibility](https://github.com/ManukMinasyan/vue3-observe-visibility/commits?author=basil)
-- [nmamano/isomux](https://github.com/nmamano/isomux/commits?author=basil)
-- [basil/ptools](https://github.com/basil/ptools/commits?author=basil)
+I am passionate about debugging and follow hard problems wherever they lead me. I learn whatever languages or tools the job demands, and I do so with both breadth and depth. I leave every subsystem better than I found it, typically with a cleaner build system, stronger debugging support, and clearer documentation.
 
-### Linux Desktop
+- [Manual of Me](./manual.md): how I like to collaborate
+- [Pull request template](./pull_request_template.md): the review structure I prefer
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty/commits?author=basil)
-- [winapps-org/winapps](https://github.com/winapps-org/winapps/commits?author=basil)
-- [IJHack/QtPass](https://github.com/IJHack/QtPass/commits?author=basil)
-- [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm/commits?author=basil)
-- [wayle-rs/wayle](https://github.com/wayle-rs/wayle/commits?author=basil)
-- [lxqt/liblxqt](https://github.com/lxqt/liblxqt/commits?author=basil)
-- [lxqt/lxqt-openssh-askpass](https://github.com/lxqt/lxqt-openssh-askpass/commits?author=basil)
-- [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget/commits?author=basil)
-- [mroth/scmpuff](https://github.com/mroth/scmpuff/commits?author=basil)
-- [dglent/meteo-qt](https://github.com/dglent/meteo-qt/commits?author=basil)
+## Open Source Leadership
 
-### Typography
+I excel at attracting and retaining contributors and at providing technical leadership to large, distributed, cross-cultural teams, with extensive experience working across Europe. These are the projects I maintain and lead:
 
-- [musescore/MuseScore](https://github.com/musescore/MuseScore/commits?author=basil)
-- [fontforge/fontforge](https://github.com/fontforge/fontforge/commits?author=basil)
-- [robertknight/tex-linebreak](https://github.com/robertknight/tex-linebreak/commits?author=basil)
-- [neanes/neanes](https://github.com/neanes/neanes/commits?author=basil)
-- [dbenjaminmiller/xetbook](https://github.com/dbenjaminmiller/xetbook/commits?author=basil)
+- **[Jenkins](https://github.com/jenkinsci/jenkins):** I have been part of the [Jenkins](https://www.jenkins.io/) community since 2012, and my involvement has grown from user to contributor (2014), plugin maintainer (2018), core maintainer (2021), and [GitHub organization](https://github.com/jenkinsci) administrator (2023). Elected to the [Jenkins Governance Board](https://www.jenkins.io/project/board/) in 2023 and reelected for a second term in 2025, I now also represent the project on the [Continuous Delivery Foundation Technical Oversight Committee](https://cd.foundation/about/toc/), an elected role within the [Linux Foundation](https://www.linuxfoundation.org/). My goal is to keep it a great place to participate while ensuring the long-term evolution and sustainability of both the project and its vibrant global community.
+- **[ptools](https://github.com/basil/ptools):** A collection of Linux process inspection utilities modeled after the Solaris originals, written in [Rust](https://www.rust-lang.org/) and available on [crates.io](https://crates.io/crates/ptools). It includes `pstack(1)`, `pfiles(1)`, `ptree(1)`, `penv(1)`, and more behind a consistent interface for inspecting both live processes and core dumps, and it shipped in [Fedora Linux](https://fedoraproject.org/) 44. Postmortem debugging is a first-class feature: it handles [Ubuntu/Debian Apport](https://wiki.ubuntu.com/Apport) `.crash` files and [systemd-coredump](https://www.freedesktop.org/software/systemd/man/latest/systemd-coredump.html) core dumps on RHEL/Fedora/SUSE as naturally as a live process, and I have upstreamed changes to Ubuntu Apport that enable postmortem analysis of open file descriptors.
+- **[LXQt](https://github.com/lxqt):** A lightweight [Qt](https://www.qt.io/)-based [desktop environment](https://lxqt-project.org/) for Linux. I joined in 2026 as a core maintainer, contributing across components such as [liblxqt](https://github.com/lxqt/liblxqt), [lxqt-openssh-askpass](https://github.com/lxqt/lxqt-openssh-askpass), and [qtermwidget](https://github.com/lxqt/qtermwidget). My goal is to keep it fast, lightweight, and dependable for users who want a traditional desktop without unnecessary overhead.
+- **[Neanes](https://github.com/neanes/neanes):** A free and open-source [scorewriter](https://neanes.github.io/neanes/) for notating Byzantine music in Byzantine notation. I joined in 2023 and soon became a committer, product manager, and [GitHub organization](https://github.com/neanes) administrator. Built with [Vue.js](https://vuejs.org/), [Electron](https://www.electronjs.org/), and [TypeScript](https://www.typescriptlang.org/), it draws on my unique expertise in Byzantine music, typography, and computer science: I have contributed original algorithms for applying [Knuth-Plass line-breaking](https://en.wikipedia.org/wiki/Knuth%E2%80%93Plass_line-breaking_algorithm) to Byzantine music notation and for enabling accurate playback of Eastern music scales. My goal is to make it effortless to typeset Byzantine music of the highest typographical quality.
+
+## Open Source Contributions
+
+I have commits and pull requests across 30+ projects, from foundational Java infrastructure to systems tools, Linux desktop software, and typography.
+
+- **Java ecosystem:** [Jenkins](https://github.com/jenkinsci/jenkins/commits?author=basil), [Groovy](https://github.com/apache/groovy/commits?author=basil), [Jetty](https://github.com/jetty/jetty.project/commits?author=basil), [JBang](https://github.com/jbangdev/jbang/commits?author=basil), [jnr-ffi](https://github.com/jnr/jnr-ffi/commits?author=basil), [Ant](https://github.com/apache/ant/commits?author=basil), [Apache Commons BeanUtils](https://github.com/apache/commons-beanutils/commits?author=basil), [Apache Commons FileUpload](https://github.com/apache/commons-fileupload/commits?author=basil), [Apache Commons Net](https://github.com/apache/commons-net/commits?author=basil), [Apache Maven Site](https://github.com/apache/maven-site/commits?author=basil), [Apereo Java CAS Client](https://github.com/apereo/java-cas-client/commits?author=basil), [ezmorph](https://github.com/kordamp/ezmorph/commits?author=basil), [json-lib](https://github.com/kordamp/json-lib/commits?author=basil), and [Monte Media](https://github.com/wrandelshofer/MonteMedia/commits?author=basil).
+- **Systems, data, and full stack:** [bpftrace](https://github.com/bpftrace/bpftrace/commits?author=basil), [Presto](https://github.com/prestodb/presto/commits?author=basil), [OSHI](https://github.com/oshi/oshi/pulls?q=is%3Apr+author%3Abasil), [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron/commits?author=basil), [vue3-observe-visibility](https://github.com/ManukMinasyan/vue3-observe-visibility/commits?author=basil), [isomux](https://github.com/nmamano/isomux/commits?author=basil), and [ptools](https://github.com/basil/ptools/commits?author=basil).
+- **Linux desktop:** [Ghostty](https://github.com/ghostty-org/ghostty/commits?author=basil), [WinApps](https://github.com/winapps-org/winapps/commits?author=basil), [QtPass](https://github.com/IJHack/QtPass/commits?author=basil), [uwsm](https://github.com/Vladimir-csp/uwsm/commits?author=basil), [wayle](https://github.com/wayle-rs/wayle/commits?author=basil), [liblxqt](https://github.com/lxqt/liblxqt/commits?author=basil), [lxqt-openssh-askpass](https://github.com/lxqt/lxqt-openssh-askpass/commits?author=basil), [qtermwidget](https://github.com/lxqt/qtermwidget/commits?author=basil), [scmpuff](https://github.com/mroth/scmpuff/commits?author=basil), and [meteo-qt](https://github.com/dglent/meteo-qt/commits?author=basil).
+- **Typography and music notation:** [MuseScore](https://github.com/musescore/MuseScore/commits?author=basil), [FontForge](https://github.com/fontforge/fontforge/commits?author=basil), [tex-linebreak](https://github.com/robertknight/tex-linebreak/commits?author=basil), [Neanes](https://github.com/neanes/neanes/commits?author=basil), and [xetbook](https://github.com/dbenjaminmiller/xetbook/commits?author=basil).
