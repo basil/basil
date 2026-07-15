@@ -34,6 +34,7 @@ I'm passionate about debugging and follow hard problems wherever they lead. I ai
 - [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron/commits?author=basil)
 - [ManukMinasyan/vue3-observe-visibility](https://github.com/ManukMinasyan/vue3-observe-visibility/commits?author=basil)
 - [nmamano/isomux](https://github.com/nmamano/isomux/commits?author=basil)
+- [basil/ptools](https://github.com/basil/ptools/commits?author=basil)
 
 ### Linux Desktop
 
