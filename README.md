@@ -30,7 +30,7 @@ I'm passionate about debugging and follow hard problems wherever they lead. I ai
 
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace/commits?author=basil)
 - [prestodb/presto](https://github.com/prestodb/presto/commits?author=basil)
-- [oshi/oshi](https://github.com/oshi/oshi/commits?author=basil)
+- [oshi/oshi](https://github.com/oshi/oshi/pulls?q=is%3Apr+author%3Abasil)
 - [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron/commits?author=basil)
 - [ManukMinasyan/vue3-observe-visibility](https://github.com/ManukMinasyan/vue3-observe-visibility/commits?author=basil)
 - [nmamano/isomux](https://github.com/nmamano/isomux/commits?author=basil)
